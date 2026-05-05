@@ -22,7 +22,7 @@ I want to spend forever making you smile, forever holding your hand, forever bei
 Will you be mine forever and always?
 
 With all my love,
-Your devoted heart 💕`
+Your devoted Ankiiii💕`
 
   useEffect(() => {
     if (currentIndex < fullMessage.length) {
