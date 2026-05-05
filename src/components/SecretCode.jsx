@@ -89,7 +89,7 @@ export default function SecretCode({ onUnlock }) {
                   transition={{ duration: 2, repeat: Number.POSITIVE_INFINITY }}
                   className="text-pink-200 text-lg"
                 >
-                  Enter the code to unlock my heart💕
+                  Enter the code to unlock my heart "You'r already there"💕
                 </motion.p>
                 <p className="text-white/50 text-sm"><span className="text-black/80">💡</span>Hint: Three numbers that mean "I Love You"</p>
               </div>
