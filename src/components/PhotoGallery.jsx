@@ -48,14 +48,14 @@ export default function PhotoGallery() {
 
           <div className="space-y-3 md:space-y-4">
             <h2 className="text-3xl md:text-4xl py-1 font-bold bg-gradient-to-r from-pink-300 via-purple-300 to-indigo-300 bg-clip-text text-transparent">
-              Our Beautiful Journey
+              Our Beautiful Journey Statred 21 dec 21
             </h2>
             <motion.p
               animate={{ opacity: [0.7, 1, 0.7] }}
               transition={{ duration: 2, repeat: Number.POSITIVE_INFINITY }}
               className="text-pink-200 text-lg md:text-xl"
             >
-              Every moment with you is a treasure✨
+              Every moment with you is a treasure special✨
             </motion.p>
           </div>
         </motion.div>
